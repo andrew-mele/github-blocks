@@ -1,0 +1,32 @@
+.titleOfPage {
+  text-align: center;
+  font-size: 50px;
+  color: darkgrey;
+}
+
+img.octocat {
+  height: 200px;
+}
+
+.first {
+  background-color: dodgerblue;
+}
+
+.second {
+  background-color: seagreen;
+}
+
+.third {
+  background-color: rgb(185, 20, 218);
+}
+
+div {
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+footer {
+    text-align: center;
+}
